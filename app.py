@@ -9,7 +9,7 @@ posts=[
         "name":"Lance Shinigawa",
         "profile-picture":"assets/villain1.jpg", 
         "pictures":["assets/villain1.jpg"], 
-        "description":"I am the funniest mentor", 
+        "description":"I am the funniest mentor. Checkout my blog where I talk about why I am such a villain: https://dewewrhino.github.io/lance-is-a-villain/", 
         "Likes":"2 People 🥺", 
         "post-datetime":"8/2/2023"
     }, 
