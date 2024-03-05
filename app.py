@@ -71,7 +71,7 @@ posts=[
         "post-liker":"Lance Minh",
         "name":"Maria",
         "profile-picture":"assets/maria1.jpg", 
-        "pictures":["assets/maria1.jpg, assets/maria2.jpg, assets/maria3.jpg, assets/maria4.jpg"], 
+        "pictures":["assets/maria1.jpg", "assets/maria2.jpg", "assets/maria3.jpg", "assets/maria4.jpg"], 
         "description":"Had a great time at the aquarium in Long Beach!!! Saw this really epic scorpion.", 
         "Likes":"100 Billion", 
         "post-datetime":"3/1/2024"
@@ -80,7 +80,7 @@ posts=[
         "post-liker":"Maria",
         "name":"Josh",
         "profile-picture":"assets/mfa.jpg", 
-        "pictures":["mfa.jpg"], 
+        "pictures":["assets/mfa.jpg"], 
         "description":"Just got this MFA token today! Very epic.", 
         "Likes":"50 Billion", 
         "post-datetime":"3/1/2024"
