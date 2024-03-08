@@ -376,6 +376,12 @@
                 {% for picture in post['pictures'] %}
                   <img class="post__media" src="{{ url_for('static', filename=picture) }}" alt="Post Content" />
                 {% endfor %}
+                {% for video in post['videos'] %}
+                  <video class="post__media" controls>
+                    <source src="{{ url_for('static', filename=video) }}" type="video/mp4">
+                    Your browser does not support the video tag.
+                  </video>
+                {% endfor %}
               </div>
             </div>
 

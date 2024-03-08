@@ -80,12 +80,13 @@ posts=[
     {
         "post-liker":"Maria",
         "name":"Josh",
-        "profile-picture":"assets/mfa.jpg", 
+        "profile-picture":"assets/josh.png", 
         "pictures":["assets/mfa.jpg"], 
-        "description":"Just got this MFA token today! Very epic.", 
+        "videos":["assets/josh.mp4"],
+        "description":"Just got this MFA token today! Very epic. Trying out some cool new voices on my avatar!", 
         "Likes":"50 Billion", 
         "post-datetime":"3/1/2024"
-    }
+    },
     
 ]
 
