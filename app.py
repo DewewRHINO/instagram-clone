@@ -1,5 +1,6 @@
 from flask import Flask
 from flask import render_template
+from flask import request
 
 app = Flask(__name__)
 
@@ -91,3 +92,7 @@ posts=[
 @app.route("/")
 def hello_world():
     return render_template('index.html',posts=posts)
+
+@app.route("/iloveminh")
+def minhland():
+    return render_template('minhworld.html')
