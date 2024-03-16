@@ -87,6 +87,15 @@ posts=[
         "Likes":"50 Billion", 
         "post-datetime":"3/1/2024"
     },
+     {
+        "post-liker":"Minh Tran",
+        "name":"Brandon",
+        "profile-picture":"assets/brandonandminh.jpeg", 
+        "pictures":["assets/brandonandminh.jpeg"], 
+        "description":"Spending time with my bestie Minh after working at Amazon!! Telling him about my new company, Brandstation", 
+        "Likes":"50 Billion", 
+        "post-datetime":"3/4/2024"
+    }
     
 ]
 
