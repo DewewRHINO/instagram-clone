@@ -7,6 +7,7 @@ app = Flask(__name__)
 posts=[
     {
         "name": "notkyle",
+        "profile-picture": "assets/kyle1.png",
         "post-title": "Kyle Post 1",
         "post-datetime": "Aug 10, 2024",
         "description": "Loved coming up here to take some photos! Always a great sunset to see.",
@@ -21,6 +22,7 @@ posts=[
     },
     {
         "name": "notkyle",
+        "profile-picture": "assets/kyle1.png",
         "post-title": "Kyle Post 2",
         "post-datetime": "Aug 10, 2024",
         "description": "This place at night is even better! My friend and I got to use the telescope and see the rings of Jupiter!!",
@@ -29,6 +31,7 @@ posts=[
     },
     {
         "name": "notkyle",
+        "profile-picture": "assets/kyle1.png",
         "post-title": "Kyle Post 3",
         "post-datetime": "Sept 26, 2024",
         "description": "Talk about a throwback thursday! This was wayyyy before I landed my gig at MASA. I was so young then... Underwater Robotics in middle school was so much fun!",
@@ -41,6 +44,7 @@ posts=[
     },
     {
         "name": "notkyle",
+        "profile-picture": "assets/kyle1.png",
         "post-title": "Kyle Post 4",
         "post-datetime": "Oct 1, 2024",
         "description": "What a night!!!! I got to see my favorite composer live!",
@@ -53,6 +57,7 @@ posts=[
     },
     {
         "name": "notkyle",
+        "profile-picture": "assets/kyle1.png",
         "post-title": "Kyle Post 5",
         "post-datetime": "Nov 7, 2024",
         "description": "Another throwback! I can’t believe that these pictures were taken over 5 years ago at this point!",
@@ -61,6 +66,7 @@ posts=[
     },
     {
         "name": "Jetjared",
+        "profile-picture": "assets/villain1.jpg",
         "post-title": "Jared Post 1",
         "post-datetime": "Nov 8, 2024 10:14pm",
         "description": "Saw another SpaceX launch today!",
@@ -70,6 +76,7 @@ posts=[
     },
     {
         "name": "marmaria",
+        "profile-picture": "assets/maria1.jpg",
         "post-title": "Maria Post 1",
         "post-datetime": "Nov 28, 2024",
         "description": "Looking ahead and traveling throughout the world!",
@@ -82,6 +89,7 @@ posts=[
     },
     {
         "name": "marmaria",
+        "profile-picture": "assets/maria1.jpg",
         "post-title": "Maria Post 2",
         "post-datetime": "Aug 23, 2024",
         "description": "I LOVE FOOD AND MATCHA!",
@@ -90,6 +98,7 @@ posts=[
     },
     {
         "name": "marmaria",
+        "profile-picture": "assets/maria1.jpg",
         "post-title": "Maria Post 3",
         "post-datetime": "Nov 24, 2024",
         "description": "Shopping for Christmas!",
@@ -98,6 +107,7 @@ posts=[
     },
     {
         "name": "J0sh",
+        "profile-picture": "assets/josh.png",
         "post-title": "Josh Post 1",
         "post-datetime": "Sept 28, 2024",
         "description": "Spent the day going to local museums here in orange! Spent the night looking at the stars and a rocket launch!!",
@@ -110,6 +120,7 @@ posts=[
     },
     {
         "name": "lunarlance",
+        "profile-picture": "assets/villain11.jpg",
         "post-title": "Lance Post 1",
         "post-datetime": "Aug 28, 2024",
         "description": "I went on a plane with my cousin. Plane emoji",
@@ -121,6 +132,7 @@ posts=[
     },
     {
         "name": "lunarlance",
+        "profile-picture": "assets/villain11.jpg",
         "post-title": "Lance Post 2",
         "post-datetime": "Oct 1, 2024",
         "description": "I went to get some katsu with the boys. Food emoji",
@@ -129,6 +141,7 @@ posts=[
     },
     {
         "name": "lunarlance",
+        "profile-picture": "assets/villain11.jpg",
         "post-title": "Lance Post 3",
         "post-datetime": "Nov 12, 2024",
         "description": "I am the funniest mentor. Crying emoji",
