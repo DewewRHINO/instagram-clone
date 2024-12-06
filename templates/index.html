@@ -435,8 +435,18 @@
                   <span>
                     <a class="post__name--underline" href="" target="_blank">{{post['name']}}</a>
                     {{post['description']}}
-                  </span>
+                    
+                  </span>                
                 </div>
+                {% for comment in post['comments'] %}
+                <div class="post__description">
+                  <span>
+                    <a class="post__name--underline" href="" target="_blank">{{comment[0]}}</a>
+                    {{comment[1]}}
+                  </span>                
+                </div>
+                  
+                {% endfor %}
 
                 <span class="post__date-time">{{post['post-datetime']}}</span>
               </div>
